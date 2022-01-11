@@ -5,8 +5,8 @@ import (
 	uurl "net/url"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/metrics"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/metrics"
 	"github.com/influxdata/influxdb/client"
 )
 

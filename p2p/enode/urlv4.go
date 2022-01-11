@@ -26,9 +26,9 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/fletaio/wallet/ethereum/common/math"
+	"github.com/sendsquare/ethereum/common/math"
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
-	"github.com/fletaio/wallet/ethereum/p2p/enr"
+	"github.com/sendsquare/ethereum/p2p/enr"
 )
 
 var incompleteNodeURL = regexp.MustCompile("(?i)^(?:enode://)?([0-9a-f]+)$")

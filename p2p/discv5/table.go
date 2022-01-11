@@ -29,7 +29,7 @@ import (
 	"net"
 	"sort"
 
-	"github.com/fletaio/wallet/ethereum/common"
+	"github.com/sendsquare/ethereum/common"
 )
 
 const (

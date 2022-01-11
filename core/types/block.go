@@ -26,9 +26,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

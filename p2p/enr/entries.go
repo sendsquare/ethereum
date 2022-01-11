@@ -21,7 +21,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/rlp"
 )
 
 // Entry is implemented by known node record entry types.

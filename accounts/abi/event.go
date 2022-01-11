@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

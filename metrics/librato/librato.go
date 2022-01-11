@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/metrics"
+	"github.com/sendsquare/ethereum/metrics"
 )
 
 // a regexp for extracting the unit from time.Duration.String

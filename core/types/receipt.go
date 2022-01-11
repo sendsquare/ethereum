@@ -23,9 +23,9 @@ import (
 	"math/big"
 	"unsafe"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/rlp"
 )
 
 //go:generate gencodec -type Receipt -field-override receiptMarshaling -out gen_receipt_json.go

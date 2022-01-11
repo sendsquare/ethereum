@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/fletaio/wallet/ethereum/metrics"
-	"github.com/fletaio/wallet/ethereum/metrics/prometheus"
+	"github.com/sendsquare/ethereum/metrics"
+	"github.com/sendsquare/ethereum/metrics/prometheus"
 )
 
 type exp struct {

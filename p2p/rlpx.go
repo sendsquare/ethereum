@@ -37,9 +37,9 @@ import (
 
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto/secp256k1"
-	"github.com/fletaio/wallet/ethereum/common/bitutil"
-	"github.com/fletaio/wallet/ethereum/crypto/ecies"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/common/bitutil"
+	"github.com/sendsquare/ethereum/crypto/ecies"
+	"github.com/sendsquare/ethereum/rlp"
 	"github.com/golang/snappy"
 	"golang.org/x/crypto/sha3"
 )

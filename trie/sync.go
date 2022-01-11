@@ -20,9 +20,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/prque"
-	"github.com/fletaio/wallet/ethereum/ethdb"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/prque"
+	"github.com/sendsquare/ethereum/ethdb"
 )
 
 // ErrNotRequested is returned by the trie sync when it's requested to process a

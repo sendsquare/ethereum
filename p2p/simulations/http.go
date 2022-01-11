@@ -29,11 +29,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/fletaio/wallet/ethereum/event"
-	"github.com/fletaio/wallet/ethereum/p2p"
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
-	"github.com/fletaio/wallet/ethereum/p2p/simulations/adapters"
-	"github.com/fletaio/wallet/ethereum/rpc"
+	"github.com/sendsquare/ethereum/event"
+	"github.com/sendsquare/ethereum/p2p"
+	"github.com/sendsquare/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/simulations/adapters"
+	"github.com/sendsquare/ethereum/rpc"
 	"github.com/julienschmidt/httprouter"
 	"golang.org/x/net/websocket"
 )

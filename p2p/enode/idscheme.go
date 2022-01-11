@@ -21,10 +21,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/fletaio/wallet/ethereum/common/math"
+	"github.com/sendsquare/ethereum/common/math"
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
-	"github.com/fletaio/wallet/ethereum/p2p/enr"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/p2p/enr"
+	"github.com/sendsquare/ethereum/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

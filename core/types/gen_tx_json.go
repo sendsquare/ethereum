@@ -7,8 +7,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/hexutil"
 )
 
 var _ = (*txdataMarshaling)(nil)

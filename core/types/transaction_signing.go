@@ -23,8 +23,8 @@ import (
 	"math/big"
 
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/params"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/params"
 )
 
 var (

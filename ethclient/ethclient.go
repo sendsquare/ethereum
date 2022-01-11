@@ -24,12 +24,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/fletaio/wallet/ethereum"
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
-	"github.com/fletaio/wallet/ethereum/core/types"
-	"github.com/fletaio/wallet/ethereum/rlp"
-	"github.com/fletaio/wallet/ethereum/rpc"
+	"github.com/sendsquare/ethereum"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/core/types"
+	"github.com/sendsquare/ethereum/rlp"
+	"github.com/sendsquare/ethereum/rpc"
 )
 
 // Client defines typed wrappers for the Ethereum RPC API.

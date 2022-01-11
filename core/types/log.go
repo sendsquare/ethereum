@@ -19,9 +19,9 @@ package types
 import (
 	"io"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/rlp"
 )
 
 //go:generate gencodec -type Log -field-override logMarshaling -out gen_log_json.go

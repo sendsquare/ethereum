@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/common/hexutil"
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
 )
 

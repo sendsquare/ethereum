@@ -38,12 +38,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/metrics"
-	"github.com/fletaio/wallet/ethereum/p2p"
-	"github.com/fletaio/wallet/ethereum/rlp"
-	"github.com/fletaio/wallet/ethereum/swarm/spancontext"
-	"github.com/fletaio/wallet/ethereum/swarm/tracing"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/metrics"
+	"github.com/sendsquare/ethereum/p2p"
+	"github.com/sendsquare/ethereum/rlp"
+	"github.com/sendsquare/ethereum/swarm/spancontext"
+	"github.com/sendsquare/ethereum/swarm/tracing"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 

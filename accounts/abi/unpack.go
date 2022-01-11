@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/fletaio/wallet/ethereum/common"
+	"github.com/sendsquare/ethereum/common"
 )
 
 var (

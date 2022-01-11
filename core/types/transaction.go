@@ -24,9 +24,9 @@ import (
 	"sync/atomic"
 
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/rlp"
 )
 
 //go:generate gencodec -type txdata -field-override txdataMarshaling -out gen_tx_json.go

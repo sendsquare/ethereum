@@ -21,7 +21,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/fletaio/wallet/ethereum/event"
+	"github.com/sendsquare/ethereum/event"
 )
 
 // Config contains the settings of the global account manager.

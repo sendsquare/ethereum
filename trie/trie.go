@@ -22,8 +22,8 @@ import (
 	"fmt"
 
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/log"
 )
 
 var (

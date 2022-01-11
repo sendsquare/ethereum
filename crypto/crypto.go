@@ -28,9 +28,9 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/math"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/math"
+	"github.com/sendsquare/ethereum/rlp"
 
 	"golang.org/x/crypto/sha3"
 )

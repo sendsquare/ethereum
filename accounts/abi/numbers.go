@@ -20,8 +20,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/math"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/math"
 )
 
 var (

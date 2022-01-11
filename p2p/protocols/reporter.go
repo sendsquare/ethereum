@@ -20,8 +20,8 @@ import (
 	"encoding/binary"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/metrics"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/metrics"
 
 	"github.com/syndtr/goleveldb/leveldb"
 )

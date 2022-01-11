@@ -19,7 +19,7 @@ package protocols
 import (
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/metrics"
+	"github.com/sendsquare/ethereum/metrics"
 )
 
 // define some metrics

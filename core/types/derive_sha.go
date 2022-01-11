@@ -19,9 +19,9 @@ package types
 import (
 	"bytes"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/rlp"
-	"github.com/fletaio/wallet/ethereum/trie"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/rlp"
+	"github.com/sendsquare/ethereum/trie"
 )
 
 type DerivableList interface {

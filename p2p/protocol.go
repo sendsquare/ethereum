@@ -19,8 +19,8 @@ package p2p
 import (
 	"fmt"
 
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
-	"github.com/fletaio/wallet/ethereum/p2p/enr"
+	"github.com/sendsquare/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/enr"
 )
 
 // Protocol represents a P2P subprotocol implementation.

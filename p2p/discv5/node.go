@@ -30,7 +30,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fletaio/wallet/ethereum/common"
+	"github.com/sendsquare/ethereum/common"
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
 )
 

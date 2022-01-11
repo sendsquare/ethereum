@@ -24,12 +24,12 @@ import (
 	"net"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/common"
+	"github.com/sendsquare/ethereum/common"
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/p2p/nat"
-	"github.com/fletaio/wallet/ethereum/p2p/netutil"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/p2p/nat"
+	"github.com/sendsquare/ethereum/p2p/netutil"
+	"github.com/sendsquare/ethereum/rlp"
 )
 
 const Version = 4

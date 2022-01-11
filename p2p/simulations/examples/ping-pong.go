@@ -25,13 +25,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/node"
-	"github.com/fletaio/wallet/ethereum/p2p"
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
-	"github.com/fletaio/wallet/ethereum/p2p/simulations"
-	"github.com/fletaio/wallet/ethereum/p2p/simulations/adapters"
-	"github.com/fletaio/wallet/ethereum/rpc"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/node"
+	"github.com/sendsquare/ethereum/p2p"
+	"github.com/sendsquare/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/simulations"
+	"github.com/sendsquare/ethereum/p2p/simulations/adapters"
+	"github.com/sendsquare/ethereum/rpc"
 )
 
 var adapterType = flag.String("adapter", "sim", `node adapter to use (one of "sim", "exec" or "docker")`)

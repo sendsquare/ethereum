@@ -25,11 +25,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/enode"
 
-	"github.com/fletaio/wallet/ethereum/event"
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/metrics"
+	"github.com/sendsquare/ethereum/event"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/metrics"
 )
 
 const (

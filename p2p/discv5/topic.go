@@ -23,8 +23,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/common/mclock"
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/common/mclock"
+	"github.com/sendsquare/ethereum/log"
 )
 
 const (

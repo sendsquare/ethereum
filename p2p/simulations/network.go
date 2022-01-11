@@ -27,11 +27,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/event"
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/p2p"
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
-	"github.com/fletaio/wallet/ethereum/p2p/simulations/adapters"
+	"github.com/sendsquare/ethereum/event"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/p2p"
+	"github.com/sendsquare/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/simulations/adapters"
 )
 
 var DialBanTimeout = 200 * time.Millisecond

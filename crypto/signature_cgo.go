@@ -24,7 +24,7 @@ import (
 	"fmt"
 
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto/secp256k1"
-	"github.com/fletaio/wallet/ethereum/common/math"
+	"github.com/sendsquare/ethereum/common/math"
 )
 
 // Ecrecover returns the uncompressed public key that created the given signature.

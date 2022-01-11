@@ -26,7 +26,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/fletaio/wallet/ethereum/p2p/enr"
+	"github.com/sendsquare/ethereum/p2p/enr"
 )
 
 // Node represents a host on the network.

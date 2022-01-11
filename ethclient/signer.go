@@ -20,8 +20,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/core/types"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/core/types"
 )
 
 // senderFromServer is a types.Signer that remembers the sender address returned by the RPC

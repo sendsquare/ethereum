@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/log"
 	"github.com/jackpal/go-nat-pmp"
 )
 

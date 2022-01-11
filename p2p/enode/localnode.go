@@ -26,9 +26,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/p2p/enr"
-	"github.com/fletaio/wallet/ethereum/p2p/netutil"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/p2p/enr"
+	"github.com/sendsquare/ethereum/p2p/netutil"
 )
 
 const (

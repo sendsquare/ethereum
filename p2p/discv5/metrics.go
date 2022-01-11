@@ -1,6 +1,6 @@
 package discv5
 
-import "github.com/fletaio/wallet/ethereum/metrics"
+import "github.com/sendsquare/ethereum/metrics"
 
 var (
 	ingressTrafficMeter = metrics.NewRegisteredMeter("discv5/InboundTraffic", nil)

@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/fletaio/wallet/ethereum/crypto"
+	ethcrypto "github.com/sendsquare/ethereum/crypto"
 )
 
 var (

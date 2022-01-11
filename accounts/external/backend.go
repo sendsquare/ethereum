@@ -21,16 +21,16 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/fletaio/wallet/ethereum"
-	"github.com/fletaio/wallet/ethereum/accounts"
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
-	"github.com/fletaio/wallet/ethereum/core/types"
-	"github.com/fletaio/wallet/ethereum/event"
-	"github.com/fletaio/wallet/ethereum/internal/ethapi"
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/rpc"
-	"github.com/fletaio/wallet/ethereum/signer/core"
+	"github.com/sendsquare/ethereum"
+	"github.com/sendsquare/ethereum/accounts"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/core/types"
+	"github.com/sendsquare/ethereum/event"
+	"github.com/sendsquare/ethereum/internal/ethapi"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/rpc"
+	"github.com/sendsquare/ethereum/signer/core"
 )
 
 type ExternalBackend struct {

@@ -26,7 +26,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/log"
 )
 
 const (

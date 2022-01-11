@@ -40,7 +40,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

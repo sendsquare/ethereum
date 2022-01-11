@@ -22,8 +22,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/core/types"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/core/types"
 )
 
 // NotFound is returned by API methods if the requested item does not exist.

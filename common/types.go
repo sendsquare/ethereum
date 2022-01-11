@@ -26,7 +26,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/common/hexutil"
 	"golang.org/x/crypto/sha3"
 )
 

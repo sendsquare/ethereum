@@ -25,12 +25,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/common/mclock"
-	"github.com/fletaio/wallet/ethereum/event"
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
-	"github.com/fletaio/wallet/ethereum/p2p/enr"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/common/mclock"
+	"github.com/sendsquare/ethereum/event"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/enr"
+	"github.com/sendsquare/ethereum/rlp"
 )
 
 var (
