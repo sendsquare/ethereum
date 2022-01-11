@@ -25,7 +25,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/btcsuite/btcd/btcec"
+	"github.com/gcash/bchd/btcec"
 )
 
 // Ecrecover returns the uncompressed public key that created the given signature.
