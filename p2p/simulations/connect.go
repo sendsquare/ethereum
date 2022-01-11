@@ -20,7 +20,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/enode"
 )
 
 var (

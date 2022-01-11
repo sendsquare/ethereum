@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/rpc"
+	"github.com/sendsquare/ethereum/rpc"
 )
 
 // In this example, our client wishes to track the latest 'block number'

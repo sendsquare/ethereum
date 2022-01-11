@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/metrics"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/metrics"
 )
 
 // Handler returns an HTTP handler which dump metrics in Prometheus format.

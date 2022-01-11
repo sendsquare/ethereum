@@ -19,7 +19,7 @@ package rpc
 import (
 	"net"
 
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/log"
 )
 
 // StartHTTPEndpoint starts the HTTP RPC endpoint, configured with cors/vhosts/modules

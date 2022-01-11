@@ -32,14 +32,14 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/node"
-	"github.com/fletaio/wallet/ethereum/p2p"
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
-	"github.com/fletaio/wallet/ethereum/p2p/simulations"
-	"github.com/fletaio/wallet/ethereum/p2p/simulations/adapters"
-	"github.com/fletaio/wallet/ethereum/rlp"
-	"github.com/fletaio/wallet/ethereum/rpc"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/node"
+	"github.com/sendsquare/ethereum/p2p"
+	"github.com/sendsquare/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/simulations"
+	"github.com/sendsquare/ethereum/p2p/simulations/adapters"
+	"github.com/sendsquare/ethereum/rlp"
+	"github.com/sendsquare/ethereum/rpc"
 )
 
 // ProtocolTester is the tester environment used for unit testing protocol

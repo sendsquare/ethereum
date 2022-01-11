@@ -20,11 +20,11 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/fletaio/wallet/ethereum/common"
 	"github.com/fletaio/fleta/common/crypto/ethereum/crypto"
-	"github.com/fletaio/wallet/ethereum/ethdb"
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/rlp"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/ethdb"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/rlp"
 )
 
 // Prove constructs a merkle proof for key. The result contains all encoded nodes

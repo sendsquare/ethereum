@@ -36,11 +36,11 @@ import (
 	"time"
 
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/node"
-	"github.com/fletaio/wallet/ethereum/p2p"
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
-	"github.com/fletaio/wallet/ethereum/rpc"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/node"
+	"github.com/sendsquare/ethereum/p2p"
+	"github.com/sendsquare/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/rpc"
 	"golang.org/x/net/websocket"
 )
 

@@ -19,8 +19,8 @@ package trie
 import (
 	"fmt"
 
-	"github.com/fletaio/wallet/ethereum/common"
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/common"
+	"github.com/sendsquare/ethereum/log"
 )
 
 // SecureTrie wraps a trie with key hashing. In a secure trie, all

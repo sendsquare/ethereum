@@ -25,7 +25,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/log"
 )
 
 /*

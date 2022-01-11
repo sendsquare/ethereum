@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/fletaio/wallet/ethereum/common"
+	"github.com/sendsquare/ethereum/common"
 )
 
 // Genesis hashes to enforce below configs on.

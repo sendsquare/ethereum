@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/fletaio/wallet/ethereum/common/math"
+	"github.com/sendsquare/ethereum/common/math"
 )
 
 func TestBlockNumberJSONUnmarshal(t *testing.T) {

@@ -22,7 +22,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/fletaio/wallet/ethereum/common/hexutil"
+	"github.com/sendsquare/ethereum/common/hexutil"
 )
 
 // API describes the set of methods offered over the RPC interface

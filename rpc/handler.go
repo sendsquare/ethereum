@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/log"
 )
 
 // handler handles JSON-RPC messages. There is one handler per connection. Note that

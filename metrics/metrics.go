@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
+	"github.com/sendsquare/ethereum/log"
 )
 
 // Enabled is checked by the constructor functions for all of the

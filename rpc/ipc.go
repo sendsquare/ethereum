@@ -20,8 +20,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/fletaio/wallet/ethereum/log"
-	"github.com/fletaio/wallet/ethereum/p2p/netutil"
+	"github.com/sendsquare/ethereum/log"
+	"github.com/sendsquare/ethereum/p2p/netutil"
 )
 
 // ServeListener accepts connections on l, serving JSON-RPC on them.

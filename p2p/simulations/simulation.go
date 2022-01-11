@@ -20,7 +20,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/p2p/enode"
+	"github.com/sendsquare/ethereum/p2p/enode"
 )
 
 // Simulation provides a framework for running actions in a simulated network

@@ -31,8 +31,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fletaio/wallet/ethereum/log"
 	"github.com/rs/cors"
+	"github.com/sendsquare/ethereum/log"
 )
 
 const (
